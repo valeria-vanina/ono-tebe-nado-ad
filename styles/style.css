@@ -14,7 +14,6 @@ a {
   text-transform: uppercase;
 }
 
-/* Шаг 4. Шапка */
 
 .header {
   display: grid;
@@ -65,7 +64,6 @@ a {
   max-width: 225px;
 }
 
-/* Шаг 5. Обложка и общий оверлей */
 
 .cover,
 .card {
@@ -143,7 +141,7 @@ a {
   padding: 11px 31px;
   border: 1px solid currentColor;
   color: inherit;
-  font-family: inherit;
+  font-family: Raleway;
   background: transparent;
 }
 
